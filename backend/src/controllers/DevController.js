@@ -39,7 +39,7 @@ module.exports = {
                 name,
                 avatar_url,
                 bio,
-                tech: arrayTechs,
+                techs: arrayTechs,
                 location
             })
         }
